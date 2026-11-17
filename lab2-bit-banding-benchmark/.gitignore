@@ -1,0 +1,8 @@
+Objects/
+Listings/
+DebugConfig/
+RTE/_*/
+*.uvguix.*
+*.uvoptx
+*.bak
+.DS_Store
